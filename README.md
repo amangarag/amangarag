@@ -1,27 +1,101 @@
-# 👋 Hello, I'm Aman Garag!
+# 👋 Hi, I'm Aman Garag
 
-I'm a passionate software developer with a love for open-source projects. I'm on a mission to create meaningful, practical, and efficient solutions that make a difference in the world of technology.
+Software Developer focused on building **scalable, maintainable, and performance-driven web applications**.  
+Hands-on experience across **React, Spring Boot, REST APIs, and modern frontend architecture**.  
+Strong believer in **open-source collaboration** and a daily **Linux-first development workflow**.
 
-🌱 **About Me:**
-- 💻 I specialize in Java,Full stack Web Development and PostgreSql.
-- 🚀 I enjoy tackling complex problems and turning them into elegant, user-friendly solutions.
-- 🌐 Open-source enthusiast, always excited to collaborate on interesting projects.
+---
 
-<!-- 🚀 **Projects:** -->
-<!-- - 📦 I've contributed to several open-source projects. Explore my repositories to see some of my work.
-- 🌟 Here are a few projects I'm proud of: [Project 1](link), [Project 2](link), [Project 3](link). -->
-<!-- -  -->
+## 👨‍💻 Who I Am
 
-💬 **Let's Connect:**
-- 📫 Reach out to me at [ProtonMail](mailto:garagaman@proton.me).
-- 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/amangarag).
-<!-- - 🐦 Follow me on [Twitter](https://twitter.com/yourtwitterhandle). -->
+- Software Developer with **industry experience** in full-stack web development  
+- Strong foundation in **Java + Spring Boot backend systems**
+- Frontend specialist with **React, TypeScript, Redux, and Tailwind CSS**
+- Active **open-source enthusiast**, learning by reading, contributing, and improving real-world codebases
+- Comfortable working in **Linux environments** for development, debugging, and system-level tasks
+- Focused on **clean architecture, performance, and scalability**
 
-👨‍💻 **Tech Stack:**
-- Java, C-Lang, Python, Data Structures ad Algorithm and Problem Solving, Database Management System(PostgreSQL & MySQL).
+---
 
-<!-- 🚁 **Goals:**
-- 🌈 My goal is to be . -->
+## 🏢 Professional Experience
 
-🌟 **Join Me on My Journey!**
-- I'm here to collaborate, learn, and build amazing things. Let's connect and create a brighter tech future together!
+### Software Developer  
+**Alliteflix Tech Solutions Pvt. Ltd.**  
+_Mar 2025 – Oct 2025_
+
+- Built and optimized **browser-based web applications** using React and TypeScript
+- Reduced load time and re-renders by **optimizing REST API calls and component state**
+- Developed **reusable UI components** using Redux, Hooks, Context API, and Tailwind
+- Integrated backend services via **RESTful APIs** using Axios and Fetch
+- Worked with **Java and Spring Boot** to build and enhance backend APIs
+- Used **Linux-based environments** for development, API testing, and deployment workflows
+- Participated in **Agile sprints, code reviews, and Git-based collaboration**
+- Ensured **cross-browser compatibility** and mobile-responsive UI
+
+---
+
+## 🚀 Key Projects
+
+### AI-Powered Serverless Resume Analyzer
+- Built an **ATS-style resume analyzer** with real-time scoring and insights
+- Implemented a **zero-backend, serverless architecture** using Puter.js
+- Designed modular UI components to visualize feedback clearly
+- Processed PDFs and generated structured JSON output for skills, tone, and ATS match
+
+**Tech:** React, TypeScript, Tailwind CSS, Zustand, Puter.js
+
+---
+
+### Spring Boot E-Commerce Backend
+- Designed backend using **Controller–Service–Repository architecture**
+- Built RESTful APIs with proper HTTP handling and CRUD operations
+- Applied **Dependency Injection (IoC)** for loose coupling and maintainability
+- Implemented product management and category-based filtering
+
+**Tech:** Java 17+, Spring Boot, Spring Data JPA, Hibernate, Maven, REST APIs
+
+---
+
+## 🧠 Knowledge & Skills
+
+**Frontend**
+- React.js, TypeScript, JavaScript (ES6+)
+- Redux, Context API, Hooks
+- Tailwind CSS, Responsive UI
+
+**Backend**
+- Java, Spring Boot
+- RESTful API design
+- Spring Data JPA, Hibernate
+
+**Databases**
+- PostgreSQL, MySQL
+
+**Linux & Systems**
+- Linux-based development environments
+- Command-line tooling, process management, networking basics
+- Environment setup, debugging, and scripting fundamentals
+
+**Tools**
+- Git, GitLab
+- Postman
+- VS Code
+
+---
+
+## 🏆 Achievements
+
+- Top 3 rank among **120+ participants** in coding challenges
+- HackerRank **Silver (Java)** and **Bronze (SQL)** badges
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **garagaman@proton.me**
+- 💼 LinkedIn: https://www.linkedin.com/in/amangarag
+- 💻 GitHub: https://github.com/amangarag
+
+---
+
+⭐ Always open to **open-source contributions**, meaningful collaboration, and building real-world software.
